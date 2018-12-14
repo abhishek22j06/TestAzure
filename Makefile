@@ -12,4 +12,4 @@ all: obj bin
 obj: $(OBJS)
 
 bin: obj
-	$(CXX) -o readConfig $(OBJS
+	$(CXX) -o readConfig $(OBJS)
